@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://mediatros.fr/$1"
+ }
+  ]
+}
